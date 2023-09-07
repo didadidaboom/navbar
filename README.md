@@ -1,4 +1,4 @@
-# navbar(from: https://github.com/veluxa/Taro-navigation-bar/tree/master)
+# navbar(from: https://github.com/veluxa/Taro-navigation-bar)
 
 
 ```
