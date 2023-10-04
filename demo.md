@@ -1,3 +1,5 @@
+![image](https://github.com/didadidaboom/navbar/assets/41999563/ffc73f47-4086-47ee-8986-1060b51c5b44)
+
 + renderCenter
 ```
 renderCenter={
